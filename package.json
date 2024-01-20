@@ -1,0 +1,19 @@
+{
+  "name": "preet",
+  "version": "1.0.0",
+  "description": "preet api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoniRedrado/PREET.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoniRedrado/PREET/issues"
+  },
+  "homepage": "https://github.com/JoniRedrado/PREET#readme"
+}
