@@ -1,6 +1,8 @@
 //IMPORTACION DE DEPENDENCIAS
 const express = require('express')
+/*
 <<<<<<< HEAD
+*/
 const mongoose = require('mongoose')
 const bodyParser = require('body-parser')
 const cors = require('cors')
