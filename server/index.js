@@ -8,7 +8,7 @@ const bodyParser = require('body-parser')
 const cors = require('cors')
 
 /*
-IMPORTAR RUTAS
+IMPORTAR ROUTERS
 */
 
 //VARIABLES DE ENTORNO
@@ -31,6 +31,9 @@ app.use(express.json())
 app.use(cors())
 
 //RUTAS
+/*
+app.use('/', router)
+*/
 app.get('/', (req, res) => {
   res.send('Welcome to PREET!')
 })
